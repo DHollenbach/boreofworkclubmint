@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe333c4b2e3f17a7dee55b32d9b7a7a34c6b4934b",
+  "SCAN_LINK": "https://etherscan.io/address/0xe333c4b2e3f17a7dee55b32d9b7a7a34c6b4934b",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Bored Of Work Club",
+  "SYMBOL": "BWC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/boredofworkclub",
+  "SHOW_BACKGROUND": false
+}
